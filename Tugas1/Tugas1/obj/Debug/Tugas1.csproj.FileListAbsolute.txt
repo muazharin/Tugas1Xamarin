@@ -1,0 +1,16 @@
+c:\users\zharin\documents\visual studio 2015\Projects\Tugas1\Tugas1\Tugas1\bin\Debug\Tugas1.dll
+c:\users\zharin\documents\visual studio 2015\Projects\Tugas1\Tugas1\Tugas1\bin\Debug\Tugas1.pdb
+c:\users\zharin\documents\visual studio 2015\Projects\Tugas1\Tugas1\Tugas1\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\zharin\documents\visual studio 2015\Projects\Tugas1\Tugas1\Tugas1\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\zharin\documents\visual studio 2015\Projects\Tugas1\Tugas1\Tugas1\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\zharin\documents\visual studio 2015\Projects\Tugas1\Tugas1\Tugas1\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\zharin\documents\visual studio 2015\Projects\Tugas1\Tugas1\Tugas1\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\zharin\documents\visual studio 2015\Projects\Tugas1\Tugas1\Tugas1\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\zharin\documents\visual studio 2015\Projects\Tugas1\Tugas1\Tugas1\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\zharin\documents\visual studio 2015\Projects\Tugas1\Tugas1\Tugas1\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\zharin\documents\visual studio 2015\Projects\Tugas1\Tugas1\Tugas1\obj\Debug\Tugas1.csprojResolveAssemblyReference.cache
+c:\users\zharin\documents\visual studio 2015\Projects\Tugas1\Tugas1\Tugas1\obj\Debug\Tugas1.MainPage.xaml.g.cs
+c:\users\zharin\documents\visual studio 2015\Projects\Tugas1\Tugas1\Tugas1\obj\Debug\Tugas1.App.xaml.g.cs
+c:\users\zharin\documents\visual studio 2015\Projects\Tugas1\Tugas1\Tugas1\obj\Debug\Tugas1.BeratBadanIdeal.xaml.g.cs
+c:\users\zharin\documents\visual studio 2015\Projects\Tugas1\Tugas1\Tugas1\obj\Debug\Tugas1.dll
+c:\users\zharin\documents\visual studio 2015\Projects\Tugas1\Tugas1\Tugas1\obj\Debug\Tugas1.pdb
